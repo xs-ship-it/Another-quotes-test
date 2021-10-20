@@ -1,12 +1,12 @@
-# Quotes
+# Github User Search
 # Author
 -Felix Nderitu.
 # Description
--this project is a web application that allows the user to view posted quotes and also add thier own quotes and then other users can vote for them by adding a like.
+-this project is a web application that allows the user to search for github users' profile and their repositories
 ## Prerequisites
 Basic  knowledge in Typescript,javascript,HTML,CSS and Angular CLI.
 ##### Technologies Used
-- Typescript,Javascript,HTML& CSS
+- Typescript,Github-API,Javascript,HTML& CSS
 ##### Setup Instructions and Installation
 - Clone this repository to a location in your file system. `git clone https://github.com/xs-ship-it/Another-quotes-test`
 - Open terminal command line then navigate to the root folder of the application. `Another-quotes-test`
