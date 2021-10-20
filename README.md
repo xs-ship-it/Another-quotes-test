@@ -2,11 +2,11 @@
 # Author
 -Felix Nderitu.
 # Description
-
+- This is a quotes app where you can create a quote or view other people's quotes ,you can also vote for a quote by adding a like 
 ## Prerequisites
 Basic  knowledge in Typescript,javascript,HTML,CSS and Angular CLI.
 ##### Technologies Used
-- Typescript,Github-API,Javascript,HTML& CSS
+- Typescript,Javascript,HTML& CSS
 ##### Setup Instructions and Installation
 - Clone this repository to a location in your file system. `git clone https://github.com/xs-ship-it/Another-quotes-test`
 - Open terminal command line then navigate to the root folder of the application. `Another-quotes-test`
