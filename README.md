@@ -1,8 +1,8 @@
-# Github User Search
+# QUOTES
 # Author
 -Felix Nderitu.
 # Description
--this project is a web application that allows the user to search for github users' profile and their repositories
+
 ## Prerequisites
 Basic  knowledge in Typescript,javascript,HTML,CSS and Angular CLI.
 ##### Technologies Used
